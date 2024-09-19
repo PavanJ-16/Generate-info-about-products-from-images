@@ -1,0 +1,1 @@
+# Generate-info-about-products-from-images
